@@ -12,3 +12,6 @@ And :
 /utilsreload --> Allows to reload the config.yml.
 
 Don't forget to add this permissions to your rank: "utilsmessage.reload"
+
+
+Thanks to Thomas7520.
