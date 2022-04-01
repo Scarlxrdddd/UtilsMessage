@@ -9,3 +9,5 @@ And :
 /utilsreload --> Allows to reload the config.yml.
 
 Don't forget to add this permissions to your rank: "utilsmessage.reload"
+
+![rooster-personal-use](https://user-images.githubusercontent.com/71601884/161353049-09523f53-ce2d-4ec5-8680-99bb4c8c3905.png)
