@@ -1,0 +1,13 @@
+name: UtilsMessage
+version: 1.0.0
+author: Scarlxrd_d
+main: fr.scarlxrd_d.utilsmessage.Main
+commands:
+  site:
+    description: Show your website link.
+  discord:
+    description: Show your discord link.
+  utilsreload:
+    description: Reload the config.
+    permission: utilsmessage.reload
+    permission-message: Not enough permissions.

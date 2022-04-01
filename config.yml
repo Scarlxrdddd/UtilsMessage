@@ -1,0 +1,16 @@
+interval: 5
+random: false
+messages:
+  - "Exemple 1"
+  - "Exemple 2"
+  - "Exemple 3"
+  - "Exemple 4"
+  - "Exemple 5"
+ 
+website: false
+linksite:
+  - "Exemple"
+
+discord: false
+linkdiscord:
+  - "Exemple"
